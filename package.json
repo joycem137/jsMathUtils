@@ -1,6 +1,6 @@
 {
   "name": "jsMathUtils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Useful tools for doing math.",
   "repository": "git://github.com/joycem137/jsMathUtils.git",
   "main": "index.js",
